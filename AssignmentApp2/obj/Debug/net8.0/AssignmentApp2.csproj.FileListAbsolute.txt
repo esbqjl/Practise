@@ -1,0 +1,14 @@
+E:\c#\AssignmentApp2\bin\Debug\net8.0\AssignmentApp2.exe
+E:\c#\AssignmentApp2\bin\Debug\net8.0\AssignmentApp2.deps.json
+E:\c#\AssignmentApp2\bin\Debug\net8.0\AssignmentApp2.runtimeconfig.json
+E:\c#\AssignmentApp2\bin\Debug\net8.0\AssignmentApp2.dll
+E:\c#\AssignmentApp2\bin\Debug\net8.0\AssignmentApp2.pdb
+E:\c#\AssignmentApp2\obj\Debug\net8.0\AssignmentApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\AssignmentApp2\obj\Debug\net8.0\AssignmentApp2.AssemblyInfoInputs.cache
+E:\c#\AssignmentApp2\obj\Debug\net8.0\AssignmentApp2.AssemblyInfo.cs
+E:\c#\AssignmentApp2\obj\Debug\net8.0\AssignmentApp2.csproj.CoreCompileInputs.cache
+E:\c#\AssignmentApp2\obj\Debug\net8.0\AssignmentApp2.dll
+E:\c#\AssignmentApp2\obj\Debug\net8.0\refint\AssignmentApp2.dll
+E:\c#\AssignmentApp2\obj\Debug\net8.0\AssignmentApp2.pdb
+E:\c#\AssignmentApp2\obj\Debug\net8.0\AssignmentApp2.genruntimeconfig.cache
+E:\c#\AssignmentApp2\obj\Debug\net8.0\ref\AssignmentApp2.dll
